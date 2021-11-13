@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AlexisBlade2001.
+Just a random person from this world
+
+
+<!---
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+AlexisBlade2001/AlexisBlade2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
